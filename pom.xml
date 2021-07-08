@@ -45,12 +45,6 @@
       <scope>test</scope>
       <version>${assertJVersion}</version>
     </dependency>
-    <dependency>
-      <artifactId>logcaptor</artifactId>
-      <groupId>io.github.hakky54</groupId>
-      <scope>test</scope>
-      <version>2.6.1</version>
-    </dependency>
   </dependencies>
 
   <build>
